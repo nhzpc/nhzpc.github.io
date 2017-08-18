@@ -1,10 +1,11 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
+      - C
       - C++
+      - C#
       - Python
-      - Design Patterns
 
-- name: Mobile Developer Keywords
+- name: Project Developer Keywords
   keywords:
-      - Android
+      - Linux
+      - Gstreamer
