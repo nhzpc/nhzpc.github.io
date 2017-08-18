@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 九九叔的github之家
-keywords: JiuJiuShu, 九九叔
+description:nhzpc的github之家
+keywords: nhzpc
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是九九叔。
+我是nhzpc。
 
 坚持就是胜利。
 
